@@ -1,10 +1,13 @@
 # Amazon-Clone using ReactJS
 This is amazon-clone more feature will be added soon.
 
+<div style="display: flex;">
 <img width="400" alt="Screenshot 2022-04-06 at 8 57 46 AM" src="https://user-images.githubusercontent.com/16948492/161890124-27a693ec-0f39-44c4-8896-04e7ddff08f6.png">
-<img width="400" alt="Screenshot 2022-<img width="1440" alt="Screenshot 2022-04-06 at 8 58 04 AM" src="https://user-images.githubusercontent.com/16948492/161890171-5e4c824a-a98c-4bec-b3cb-3499d0367877.png">
-04-06 at 8 57 55 AM" src="https://user-images.githubusercontent.com/16948492/161890148-8b9e1e76-b864-4a05-a85c-4e916f58d84e.png">
+
+<img width="400" alt="Screenshot 2022-04-06 at 8 57 55 AM" src="https://user-images.githubusercontent.com/16948492/161890375-bf3c55e8-c8dc-46af-b05f-f98241d7406c.png">
+
 <img width="400" alt="Screenshot 2022-04-06 at 8 58 04 AM" src="https://user-images.githubusercontent.com/16948492/161890259-4bae4045-2f89-4cb6-bc53-84f49f4dd4c3.png">
+ </div>
 
 
 
